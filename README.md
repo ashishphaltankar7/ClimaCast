@@ -43,9 +43,6 @@ Contributions to ClimaCast are welcome! If you would like to contribute to the p
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
