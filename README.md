@@ -27,7 +27,7 @@ To run ClimaCast locally, follow these steps:
 ## Technologies Used
 
 - Android Studio: The primary IDE used for development.
-- Java: The programming language used for Android app development.
+- Kotlin: The programming language used for Android app development.
 - Retrofit: A type-safe HTTP client for making API calls.
 - Gson: A library for serializing and deserializing JSON objects.
 - API: The application utilizes a weather API to fetch real-time weather data.
